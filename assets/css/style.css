@@ -200,7 +200,7 @@ footer {
     margin: 0;
 }
 
-.cv-pdf i {
+.resume-pdf i {
     font-size: 18px;
     color: #fafafa;
     text-align: center;
@@ -211,7 +211,7 @@ footer {
     -o-transition: all 0.35s ease-in-out;
 }
 
-.cv-pdf i:hover {
+.resume-pdf i:hover {
     color: #e84610;
 }
 
