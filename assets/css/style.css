@@ -19,7 +19,7 @@
 }
 
 .bg-color-contact {
-    background-color: #fff;
+    background-color: rgb(196, 191, 252);
 }
 
 .ui-menu-color-home {
@@ -379,7 +379,7 @@ button[type="submit"] {
     margin-top: 15px;
     margin-bottom: 20px;
     color: #fafafa;
-    background-color: #e84610;
+    background-color: #1106b4;
 }
 
 /* ----------------------------------------Media Queries */
