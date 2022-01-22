@@ -148,9 +148,11 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 -   [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
 
+-   Code used throughout site is similar to that which was used during my classes at CodeInstitute.  
+
 ### Content
 
--   All content was written by the developer.
+-   All content was written by the developer.  The design and Idea for this type of site was borrowed from coursework during the FullStack Programming coursework for the HTML and CSS classes.
 
 -   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
