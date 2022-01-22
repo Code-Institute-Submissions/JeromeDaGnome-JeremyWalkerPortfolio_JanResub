@@ -87,8 +87,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Known Bugs
 
--   On some browsers the pdf viewing may be disabled or an extension is not available.
-    -   A download link is provided in case of this to view the pdf alternately.
+-   W3C validators were not working to verify content.
+-   Img tags on Portfolio page would not work with standard /assets/images/imagename.jpg nomenclature and had to add in the JeremyWalkerPortfolio to the front of the src to make it work.  could not diagnose the issue.
 
 ## Deployment
 
